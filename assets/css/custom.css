@@ -1,0 +1,12 @@
+.grid-desc {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+@media screen and (max-width: 736px) {
+
+  .grid-desc {
+    text-align: center;
+  }
+
+}
